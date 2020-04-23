@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "nr1-executive-overview-launcher",
+    "displayName": "Executive Overview",
+    "description": "High level account health display",
+    "rootNerdletId": "nr1-executive-overview-nerdlet"
+}

@@ -1,0 +1,11 @@
+@import url('//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css');
+
+.closeIcon {
+  position: 'absolute';
+  top: 0;
+  bottom: 0;
+  margin: 'auto';
+  right: '2.5em';
+  line-height: 1;
+  z-index: 1;
+}
